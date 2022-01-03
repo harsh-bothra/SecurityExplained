@@ -17,5 +17,8 @@ Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/har
 ___
 S.No. | Topic
 --- | ---
-**1** |  [My Penetration Testing Methodology [Web]](/resources/web-pentesting-methodology.md)
+**1** | [My Penetration Testing Methodology [Web]](/resources/web-pentesting-methodology.md)
 **2** | [FeroxBuster Explained](/resources/feroxbuster-explained.md)
+**3** | [Creating Custom Wordlist for Contnet Discovery](/resources/custom-wordlist-for-contentdiscovery.md)
+
+
