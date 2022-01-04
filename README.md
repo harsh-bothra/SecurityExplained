@@ -9,7 +9,7 @@ SecurityExplained is a new series after the previous learning challenge series [
 6. Giveaways and Community Engagement 
 7. GitHub Repository to Maintain "SecurityExplained"
 8. Public & Free to Access
-9. Newsletter [Unsure about this]
+9. Newsletter
 
 Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_).
 
@@ -20,5 +20,6 @@ S.No. | Topic
 **1** | [My Penetration Testing Methodology [Web]](/resources/web-pentesting-methodology.md)
 **2** | [FeroxBuster Explained](/resources/feroxbuster-explained.md)
 **3** | [Creating Custom Wordlist for Contnet Discovery](/resources/custom-wordlist-for-contentdiscovery.md)
+**4** | [Escalating HTML Injection to Cloud Metadata SSRF](/resources/htmli-to-cloud-ssrf.md)
 
 
