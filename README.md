@@ -21,5 +21,5 @@ S.No. | Topic
 **2** | [FeroxBuster Explained](/resources/feroxbuster-explained.md)
 **3** | [Creating Custom Wordlist for Contnet Discovery](/resources/custom-wordlist-for-contentdiscovery.md)
 **4** | [Escalating HTML Injection to Cloud Metadata SSRF](/resources/htmli-to-cloud-ssrf.md)
-
+**5** | [Bypassing Privileges & Other Restrictions with Mass Assignment Attacks](/resources/attacks-with-mass-assign.md)
 
