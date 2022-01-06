@@ -22,4 +22,4 @@ S.No. | Topic
 **3** | [Creating Custom Wordlist for Contnet Discovery](/resources/custom-wordlist-for-contentdiscovery.md)
 **4** | [Escalating HTML Injection to Cloud Metadata SSRF](/resources/htmli-to-cloud-ssrf.md)
 **5** | [Bypassing Privileges & Other Restrictions with Mass Assignment Attacks](/resources/attacks-with-mass-assign.md)
-
+**6** | [Bypassing Biometrics in iOS with Objection](/resources/bypassing-ios-biometrics.md)
