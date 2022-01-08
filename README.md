@@ -23,3 +23,6 @@ S.No. | Topic
 **4** | [Escalating HTML Injection to Cloud Metadata SSRF](/resources/htmli-to-cloud-ssrf.md)
 **5** | [Bypassing Privileges & Other Restrictions with Mass Assignment Attacks](/resources/attacks-with-mass-assign.md)
 **6** | [Bypassing Biometrics in iOS with Objection](/resources/bypassing-ios-biometrics.md)
+**7** | [My Methodology to Test Premium Features](/resources/premium-feature-testing-methodology.md)
+**8** | [Bypassing Filters(and more) with Visual Spoofing](/resources/bypassing-filters-visual-spoofing.md)
+
