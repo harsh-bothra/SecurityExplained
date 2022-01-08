@@ -19,7 +19,7 @@ S.No. | Topic
 --- | ---
 **1** | [My Penetration Testing Methodology [Web]](/resources/web-pentesting-methodology.md)
 **2** | [FeroxBuster Explained](/resources/feroxbuster-explained.md)
-**3** | [Creating Custom Wordlist for Contnet Discovery](/resources/custom-wordlist-for-contentdiscovery.md)
+**3** | [Creating Custom Wordlist for Content Discovery](/resources/custom-wordlist-for-contentdiscovery.md)
 **4** | [Escalating HTML Injection to Cloud Metadata SSRF](/resources/htmli-to-cloud-ssrf.md)
 **5** | [Bypassing Privileges & Other Restrictions with Mass Assignment Attacks](/resources/attacks-with-mass-assign.md)
 **6** | [Bypassing Biometrics in iOS with Objection](/resources/bypassing-ios-biometrics.md)
