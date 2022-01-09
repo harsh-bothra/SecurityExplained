@@ -27,6 +27,7 @@ S.No. | Topic
 **6** | [Bypassing Biometrics in iOS with Objection](/resources/bypassing-ios-biometrics.md)
 **7** | [My Methodology to Test Premium Features](/resources/premium-feature-testing-methodology.md)
 **8** | [Bypassing Filters(and more) with Visual Spoofing](/resources/bypassing-filters-visual-spoofing.md)
+**9** | [Path Traversal via File Upload](/resources/path-traversal-file-upload.md)
 
 # Guest Resources
 
