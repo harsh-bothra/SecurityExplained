@@ -14,6 +14,8 @@ SecurityExplained is a new series after the previous learning challenge series [
 Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_).
 
 **Note:** Please note that this series will run on irregular scehdules and it is not necessary to produce & share content on a regular or daily basis. 
+
+# Content by Harsh
 ___
 S.No. | Topic
 --- | ---
@@ -26,3 +28,9 @@ S.No. | Topic
 **7** | [My Methodology to Test Premium Features](/resources/premium-feature-testing-methodology.md)
 **8** | [Bypassing Filters(and more) with Visual Spoofing](/resources/bypassing-filters-visual-spoofing.md)
 
+# Guest Resources
+
+___
+S.No. | Topic
+--- | ---
+**1** | [<>](/guest-resources/<>.md)
