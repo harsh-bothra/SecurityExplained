@@ -28,6 +28,16 @@ S.No. | Topic
 **7** | [My Methodology to Test Premium Features](/resources/premium-feature-testing-methodology.md)
 **8** | [Bypassing Filters(and more) with Visual Spoofing](/resources/bypassing-filters-visual-spoofing.md)
 **9** | [Path Traversal via File Upload](/resources/path-traversal-file-upload.md)
+**10** | [Attacking Zip Upload Functionality with ZipSlip Attack](/resources/zip-slip-file-upload.md)
+
+
+# SecurityExplained NewsLetter
+
+___
+S.No. | Topic
+--- | ---
+**1** | [Issue-1](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-newsletter-315740)
+**2** | [Issue-2](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-2-969744)
 
 # Guest Resources
 
