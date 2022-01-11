@@ -29,6 +29,7 @@ S.No. | Topic
 **8** | [Bypassing Filters(and more) with Visual Spoofing](/resources/bypassing-filters-visual-spoofing.md)
 **9** | [Path Traversal via File Upload](/resources/path-traversal-file-upload.md)
 **10** | [Attacking Zip Upload Functionality with ZipSlip Attack](/resources/zip-slip-file-upload.md)
+**11** | [RustScan - The Modern Port Scanner](/resources/rustscan-portscanner.md)
 
 
 # SecurityExplained NewsLetter
