@@ -30,6 +30,7 @@ S.No. | Topic
 **9** | [Path Traversal via File Upload](/resources/path-traversal-file-upload.md)
 **10** | [Attacking Zip Upload Functionality with ZipSlip Attack](/resources/zip-slip-file-upload.md)
 **11** | [RustScan - The Modern Port Scanner](/resources/rustscan-portscanner.md)
+**12** | [Vulnerable Code Snippet - 1](/resources/vulnerable-code-1.md)
 
 
 # SecurityExplained NewsLetter
