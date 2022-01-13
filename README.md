@@ -31,6 +31,7 @@ S.No. | Topic
 **10** | [Attacking Zip Upload Functionality with ZipSlip Attack](/resources/zip-slip-file-upload.md)
 **11** | [RustScan - The Modern Port Scanner](/resources/rustscan-portscanner.md)
 **12** | [Vulnerable Code Snippet - 1](/resources/vulnerable-code-1.md)
+**13** | [Vulnerable Code Snippet - 2](/resources/vulnerable-code-2.md)
 
 
 # SecurityExplained NewsLetter
