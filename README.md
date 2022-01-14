@@ -32,6 +32,7 @@ S.No. | Topic
 **11** | [RustScan - The Modern Port Scanner](/resources/rustscan-portscanner.md)
 **12** | [Vulnerable Code Snippet - 1](/resources/vulnerable-code-1.md)
 **13** | [Vulnerable Code Snippet - 2](/resources/vulnerable-code-2.md)
+**14** | [Exploiting XXE in JSON Endpoints](/resources/xxe-in-json.md)
 
 
 # SecurityExplained NewsLetter
