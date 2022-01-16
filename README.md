@@ -34,6 +34,8 @@ S.No. | Topic
 **13** | [Vulnerable Code Snippet - 2](/resources/vulnerable-code-2.md)
 **14** | [Exploiting XXE in JSON Endpoints](/resources/xxe-in-json.md)
 **15** | [Vulnerable Code Snippet - 3](/resources/vulnerable-code-3.md)
+**16** | [Vulnerable Code Snippet - 4](/resources/vulnerable-code-4.md)
+
 
 # SecurityExplained NewsLetter
 
