@@ -44,6 +44,8 @@ S.No. | Topic
 --- | ---
 **1** | [Issue-1](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-newsletter-315740)
 **2** | [Issue-2](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-2-969744)
+**3** | [Issue-3](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-3-979380)
+
 
 # Guest Resources
 
