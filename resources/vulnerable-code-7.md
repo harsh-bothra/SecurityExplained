@@ -2,7 +2,7 @@
 
 #### Vulnerable Code: 
 
-![Vulnerable Code](../media/code-6.jpg)
+![Vulnerable Code](../media/code-7.jpg)
 
 
 #### Solution: 

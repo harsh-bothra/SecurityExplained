@@ -1,12 +1,12 @@
-### SecurityExplained S-16: Vulnerable Code Snippet - 4
+### SecurityExplained S-17: Vulnerable Code Snippet - 5
 
 #### Vulnerable Code: 
 
-![Vulnerable Code](../media/code-4.jpg)
+![Vulnerable Code](../media/code-5.jpg)
 
 
 #### Solution: 
 
-The issue in this code snippet is the use of Blacklist (Denylist) instead of using a Whitelist (Allowlist). An attacker can bypass this protection in multiple ways and upload a malicious file on the server.
+The issue in this code snippet is that the files are stored without any extension. The Apache does not attach a Content-Type header in the response. Modern browsers will interpret these files as HTML which may lead to an attack such as Stored Cross-Site Scripting.
 
 ##### Code Credits: SonarSource
