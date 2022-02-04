@@ -14,3 +14,5 @@ Performing this attack is quite simple:
 Here is the list of Metadata endpoints for different cloud service providers: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md#ssrf-url-for-cloud-instances
 
 ```
+
+Click [here](https://twitter.com/harshbothra_/status/1478394407095353346?s=20&t=QR8LCZPmGCrSu2SuCUBCgQ) to open the tweet of this topic
