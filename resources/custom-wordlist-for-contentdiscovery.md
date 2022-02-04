@@ -23,4 +23,4 @@ Let's see how "CWFF (Custom Wordlist For Fuzzing)" tool works in action:
 4. There are multiple flags and options available that can be found in the help documents: "python3 cwff.py --help"
 ```
 
-Click [here](https://twitter.com/harshbothra_/status/1477971761907978241?s=20&t=QR8LCZPmGCrSu2SuCUBCgQ) to open the tweet of this topic
+[Follow Twitter Thread](https://twitter.com/harshbothra_/status/1477971761907978241?s=20&t=QR8LCZPmGCrSu2SuCUBCgQ)
