@@ -22,3 +22,5 @@ Let's see how "CWFF (Custom Wordlist For Fuzzing)" tool works in action:
 3. Results will be stored on a directory with the supplied domain name for later access. 
 4. There are multiple flags and options available that can be found in the help documents: "python3 cwff.py --help"
 ```
+
+[Follow Twitter Thread](https://twitter.com/harshbothra_/status/1477971761907978241?s=20&t=QR8LCZPmGCrSu2SuCUBCgQ)
