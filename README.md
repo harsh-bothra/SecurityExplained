@@ -53,6 +53,7 @@ S.No. | Topic
 **32** | [Account Takeovers Methodogoly](/resources/account-takeovers.md)
 **33** | [Vulnerable Code Snippet - 20](/resources/vulnerable-code-20.md)
 **34** | [Vulnerable Code Snippet - 21](/resources/vulnerable-code-21.md)
+**35** | [Vulnerable Code Snippet - 22](/resources/vulnerable-code-22.md)
 
 
 # SecurityExplained NewsLetter
