@@ -24,3 +24,4 @@ Feel free to ask questions related to "How do I perform Content Discovery", etc.
 ```
 
 #### Twitter Handle: @harshbothra_
+[Follow Twitter Thread](https://twitter.com/harshbothra_/status/1477541501311676417?s=20&t=QR8LCZPmGCrSu2SuCUBCgQ)
