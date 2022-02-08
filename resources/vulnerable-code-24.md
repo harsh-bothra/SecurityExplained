@@ -11,4 +11,4 @@ The above code is vulnerable to Local File Inclusion (LFI) due to improper sanit
 
 Twitter Thread: https://twitter.com/harshbothra_/status/1490320844962377728
 
-##### Code Credits: SonarSource
+##### Code Credits: @ChetanyaKunndra

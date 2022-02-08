@@ -17,4 +17,4 @@ It is recommended to use a whitelist instead and also not use system cmd calls t
 
 Twitter Thread: https://twitter.com/harshbothra_/status/1490513142375333889
 
-##### Code Credits: SonarSource
+##### Code Credits: @Brumens2
