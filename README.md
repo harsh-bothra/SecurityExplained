@@ -60,6 +60,8 @@ S.No. | Topic
 **39** | [Vulnerable Code Snippet - 26](/resources/vulnerable-code-26.md)
 **40** | [Vulnerable Code Snippet - 27](/resources/vulnerable-code-27.md)
 **41** | [Vulnerable Code Snippet - 28](/resources/vulnerable-code-28.md)
+**42** | [Vulnerable Code Snippet - 29](/resources/vulnerable-code-29.md)
+**43** | [Vulnerable Code Snippet - 30](/resources/vulnerable-code-30.md)
 
 
 # SecurityExplained NewsLetter
