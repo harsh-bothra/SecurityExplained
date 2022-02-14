@@ -63,6 +63,7 @@ S.No. | Topic
 **42** | [Vulnerable Code Snippet - 29](/resources/vulnerable-code-29.md)
 **43** | [Vulnerable Code Snippet - 30](/resources/vulnerable-code-30.md)
 **44** | [Vulnerable Code Snippet - 31](/resources/vulnerable-code-31.md)
+**45** | [Vulnerable Code Snippet - 32](/resources/vulnerable-code-32.md)
 
 
 # SecurityExplained NewsLetter
@@ -76,6 +77,7 @@ S.No. | Topic
 **4** | [Issue-4](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-4-990787)
 **5** | [Issue-5](https://t.co/MIS3cFYYtj)
 **6** | [Issue-6](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-6-1014382)
+**7** | [Issue-7](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-7-1026847)
 
 # Guest Resources
 
