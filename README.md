@@ -65,6 +65,7 @@ S.No. | Topic
 **44** | [Vulnerable Code Snippet - 31](/resources/vulnerable-code-31.md)
 **45** | [Vulnerable Code Snippet - 32](/resources/vulnerable-code-32.md)
 **46** | [Vulnerable Code Snippet - 33](/resources/vulnerable-code-33.md)
+**47** | [Vulnerable Code Snippet - 34](/resources/vulnerable-code-34.md)
 
 
 # SecurityExplained NewsLetter
