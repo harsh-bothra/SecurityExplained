@@ -1,4 +1,4 @@
-### SecurityExplained S-47: Vulnerable Code Snippet - 35
+### SecurityExplained S-48: Vulnerable Code Snippet - 35
 
 #### Vulnerable Code: 
 
