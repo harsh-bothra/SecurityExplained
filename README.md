@@ -84,6 +84,9 @@ S.No. | Topic
 **5** | [Issue-5](https://t.co/MIS3cFYYtj)
 **6** | [Issue-6](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-6-1014382)
 **7** | [Issue-7](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-7-1026847)
+**8** | [Issue-8](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-8-1038241)
+
+
 
 # Guest Resources
 
