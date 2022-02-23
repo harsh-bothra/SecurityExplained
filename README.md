@@ -72,6 +72,7 @@ S.No. | Topic
 **51** | [Vulnerable Code Snippet - 38](/resources/vulnerable-code-38.md)
 **52** | [Vulnerable Code Snippet - 39](/resources/vulnerable-code-39.md)
 **53** | [Vulnerable Code Snippet - 40](/resources/vulnerable-code-40.md)
+**54** | [Vulnerable Code Snippet - 41](/resources/vulnerable-code-41.md)
 
 # SecurityExplained NewsLetter
 
