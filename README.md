@@ -75,6 +75,7 @@ S.No. | Topic
 **54** | [Vulnerable Code Snippet - 41](/resources/vulnerable-code-41.md)
 **55** | [Vulnerable Code Snippet - 42](/resources/vulnerable-code-42.md)
 **56** | [Vulnerable Code Snippet - 43](/resources/vulnerable-code-43.md)
+**57** | [Vulnerable Code Snippet - 44](/resources/vulnerable-code-44.md)
 
 # SecurityExplained NewsLetter
 
@@ -91,6 +92,12 @@ S.No. | Topic
 **8** | [Issue-8](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-8-1038241)
 
 
+# AskMeAnything 
+
+___
+S.No. | Topic
+--- | ---
+**1** | [AMA-1](https://twitter.com/harshbothra_/status/1497233820336418816)
 
 # Guest Resources
 
