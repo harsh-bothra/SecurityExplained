@@ -77,6 +77,7 @@ S.No. | Topic
 **56** | [Vulnerable Code Snippet - 43](/resources/vulnerable-code-43.md)
 **57** | [Vulnerable Code Snippet - 44](/resources/vulnerable-code-44.md)
 **58** | [Vulnerable Code Snippet - 45](/resources/vulnerable-code-45.md)
+**59** | [Ruby ERB SSTI](/resources/ruby-erb-ssti.md)
 
 # SecurityExplained NewsLetter
 
