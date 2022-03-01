@@ -50,7 +50,7 @@ S.No. | Topic
 **29** | [Vulnerable Code Snippet - 17](/resources/vulnerable-code-17.md)
 **30** | [Vulnerable Code Snippet - 18](/resources/vulnerable-code-18.md)
 **31** | [Vulnerable Code Snippet - 19](/resources/vulnerable-code-19.md)
-**32** | [Account Takeovers Methodogoly](/resources/account-takeovers.md)
+**32** | [Account Takeover Methodology](/resources/account-takeovers.md)
 **33** | [Vulnerable Code Snippet - 20](/resources/vulnerable-code-20.md)
 **34** | [Vulnerable Code Snippet - 21](/resources/vulnerable-code-21.md)
 **35** | [Vulnerable Code Snippet - 22](/resources/vulnerable-code-22.md)
@@ -78,6 +78,7 @@ S.No. | Topic
 **57** | [Vulnerable Code Snippet - 44](/resources/vulnerable-code-44.md)
 **58** | [Vulnerable Code Snippet - 45](/resources/vulnerable-code-45.md)
 **59** | [Ruby ERB SSTI](/resources/ruby-erb-ssti.md)
+**60** | [Introduction to CWE](/resources/intro-to-cwe.md)
 
 # SecurityExplained NewsLetter
 
@@ -100,6 +101,12 @@ ___
 S.No. | Topic
 --- | ---
 **1** | [AMA-1](https://twitter.com/harshbothra_/status/1497233820336418816)
+
+# MindMaps 
+S.No. | Topic
+--- | ---
+**1** | [Account Takeover Techniques](https://www.xmind.net/m/M3WEqG/)
+**2** | [CWE TOP 10 (2021)](https://www.xmind.net/m/icrqti)
 
 # Guest Resources
 
