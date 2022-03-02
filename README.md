@@ -79,6 +79,7 @@ S.No. | Topic
 **58** | [Vulnerable Code Snippet - 45](/resources/vulnerable-code-45.md)
 **59** | [Ruby ERB SSTI](/resources/ruby-erb-ssti.md)
 **60** | [Introduction to CWE](/resources/intro-to-cwe.md)
+**61** | [CWE-787: Out-of-bounds Write](/resources/cwe-787.md)
 
 # SecurityExplained NewsLetter
 
