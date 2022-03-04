@@ -81,6 +81,7 @@ S.No. | Topic
 **60** | [Introduction to CWE](/resources/intro-to-cwe.md)
 **61** | [CWE-787: Out-of-bounds Write](/resources/cwe-787.md)
 **62** | [Vulnerable Code Snippet - 46](/resources/vulnerable-code-46.md)
+**63** | [CWE-20: Improper Input Validation](/resources/cwe-20.md)
 
 # SecurityExplained NewsLetter
 
