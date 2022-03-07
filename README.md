@@ -84,6 +84,8 @@ S.No. | Topic
 **63** | [CWE-20: Improper Input Validation](/resources/cwe-20.md)
 **64** | [Vulnerabilities in Cookie Based Authentication](/resources/vulnerabilities-in-cookies.md)
 **65** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](/resources/getting-into-cybersecurity.md)
+**66** | [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](/resources/scope-based-recon.md)
+**67** | [MFA Bypass Techniques](/resources/mfa-bypass.md)
 
 # SecurityExplained NewsLetter
 
@@ -98,6 +100,8 @@ S.No. | Topic
 **6** | [Issue-6](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-6-1014382)
 **7** | [Issue-7](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-7-1026847)
 **8** | [Issue-8](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-8-1038241)
+**9** | [Issue-9](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-9-1049767)
+**10** | [Issue-10](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-10-1061802)
 
 
 # AskMeAnything 
