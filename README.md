@@ -86,6 +86,7 @@ S.No. | Topic
 **65** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](/resources/getting-into-cybersecurity.md)
 **66** | [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](/resources/scope-based-recon.md)
 **67** | [MFA Bypass Techniques](/resources/mfa-bypass.md)
+**68** | [Vulnerable Code Snippet - 47](/resources/vulnerable-code-47.md)
 
 # SecurityExplained NewsLetter
 
