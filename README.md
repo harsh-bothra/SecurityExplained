@@ -87,6 +87,7 @@ S.No. | Topic
 **66** | [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](/resources/scope-based-recon.md)
 **67** | [MFA Bypass Techniques](/resources/mfa-bypass.md)
 **68** | [Vulnerable Code Snippet - 47](/resources/vulnerable-code-47.md)
+**69** | [Vulnerable Code Snippet - 48](/resources/vulnerable-code-48.md)
 
 # SecurityExplained NewsLetter
 
