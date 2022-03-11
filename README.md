@@ -88,6 +88,7 @@ S.No. | Topic
 **67** | [MFA Bypass Techniques](/resources/mfa-bypass.md)
 **68** | [Vulnerable Code Snippet - 47](/resources/vulnerable-code-47.md)
 **69** | [Vulnerable Code Snippet - 48](/resources/vulnerable-code-48.md)
+**70** | [Vulnerable Code Snippet - 49](/resources/vulnerable-code-49.md)
 
 # SecurityExplained NewsLetter
 
