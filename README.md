@@ -90,6 +90,7 @@ S.No. | Topic
 **69** | [Vulnerable Code Snippet - 48](/resources/vulnerable-code-48.md)
 **70** | [Vulnerable Code Snippet - 49](/resources/vulnerable-code-49.md)
 **71** | [Vulnerable Code Snippet - 50](/resources/vulnerable-code-50.md)
+**72** | [Vulnerable Code Snippet - 51](/resources/vulnerable-code-51.md)
 
 # SecurityExplained NewsLetter
 
