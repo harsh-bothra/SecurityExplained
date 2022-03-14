@@ -91,6 +91,7 @@ S.No. | Topic
 **70** | [Vulnerable Code Snippet - 49](/resources/vulnerable-code-49.md)
 **71** | [Vulnerable Code Snippet - 50](/resources/vulnerable-code-50.md)
 **72** | [Vulnerable Code Snippet - 51](/resources/vulnerable-code-51.md)
+**73** | [Vulnerable Code Snippet - 52](/resources/vulnerable-code-52.md)
 
 # SecurityExplained NewsLetter
 
@@ -107,7 +108,7 @@ S.No. | Topic
 **8** | [Issue-8](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-8-1038241)
 **9** | [Issue-9](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-9-1049767)
 **10** | [Issue-10](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-10-1061802)
-
+**11** | [Issue-11](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-11-1073189)
 
 # AskMeAnything 
 
