@@ -100,6 +100,7 @@ S.No. | Topic
 **79** | [Vulnerable Code Snippet - 58](/resources/vulnerable-code-58.md)
 **80** | [Vulnerable Code Snippet - 59](/resources/vulnerable-code-59.md)
 **81** | [Vulnerable Code Snippet - 60](/resources/vulnerable-code-60.md)
+**82** | [Vulnerable Code Snippet - 61](/resources/vulnerable-code-61.md)
 
 # SecurityExplained NewsLetter
 
