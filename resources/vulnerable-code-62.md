@@ -1,8 +1,8 @@
-### SecurityExplained S-83: Vulnerable Code Snippet - 63
+### SecurityExplained S-83: Vulnerable Code Snippet - 62
 
 #### Vulnerable Code: 
 
-![Vulnerable Code](../media/code-63.png)
+![Vulnerable Code](../media/code-62.png)
 
 
 #### Solution: 
