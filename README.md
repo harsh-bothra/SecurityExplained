@@ -105,6 +105,13 @@ S.No. | Topic
 **84** | [Vulnerable Code Snippet - 63](/resources/vulnerable-code-63.md)
 **85** | [Vulnerable Code Snippet - 64](/resources/vulnerable-code-64.md)
 **86** | [Vulnerable Code Snippet - 65](/resources/vulnerable-code-65.md)
+**87** | [CWE-200: Exposure of Sensitive Information to an Unauthorized Actor](/resources/cwe-200.md)
+**88** | [CWE-732: Incorrect Permission Assignment for Critical Resource](/resources/cwe-732.md)
+**89** | [CWE-522: Insufficiently Protected Credentials](/resources/cwe-522.md)
+**90** | [CWE-918: Server-Side Request Forgery (SSRF)](/resources/cwe-918)
+**91** | [CWE-611: Improper Restriction of XML External Entity Reference](/resources/cwe-611.md)
+**92** | [CWE-476: NULL Pointer Dereference](/resources/cwe-476.md)
+**93** | [CWE-276: Incorrect Default Permissions](/resources/cwe-276.md)
 
 # SecurityExplained NewsLetter
 
