@@ -112,6 +112,10 @@ S.No. | Topic
 **91** | [CWE-611: Improper Restriction of XML External Entity Reference](/resources/cwe-611.md)
 **92** | [CWE-476: NULL Pointer Dereference](/resources/cwe-476.md)
 **93** | [CWE-276: Incorrect Default Permissions](/resources/cwe-276.md)
+**94** | [CWE-862: Missing Authorization](/resources/cwe-862.md)
+**95** | [CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer](/resources/cwe-119.md)
+**96** | [CWE-798: Use of Hard-coded Credentials](/resources/cwe-798.md)
+**97** | [CWE-287: Improper Authentication](/resources/cwe-287.md)
 
 # SecurityExplained NewsLetter
 
@@ -130,6 +134,8 @@ S.No. | Topic
 **10** | [Issue-10](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-10-1061802)
 **11** | [Issue-11](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-11-1073189)
 **12** | [Issue-12](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-12-1084203)
+**13** | [Issue-13](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-13-1095142)
+**14** | [Issue-14](https://www.getrevue.co/profile/harshbothra_/issues/securityexplained-issue-14-1106987)
 
 # AskMeAnything 
 
@@ -138,6 +144,21 @@ S.No. | Topic
 --- | ---
 **1** | [AMA-1: AMA with Harsh Bothra](https://twitter.com/harshbothra_/status/1497233820336418816)
 **2** | [AMA-2: AMA with Six2dez](https://twitter.com/harshbothra_/status/1499731408868179972)
+**3** | [AMA-3: AMA with Brumens](https://twitter.com/harshbothra_/status/1511327809733480451)
+
+# Threads
+___
+S.No. | Topic
+--- | ---
+**1** | [7 Hacking Books you must read](https://twitter.com/harshbothra_/status/1499346357227642886)
+**2** | [4 Subdomain Enumeration Tools you must have in your Arsenal 💻](https://twitter.com/harshbothra_/status/1500101328978079744)
+**3** | [6 Burp Extensions to Check for Access Control & Privilege Escalation Issues](https://twitter.com/harshbothra_/status/1500848764948389889)
+**4** | [5 Powerful Web Fuzzing & Content Discovery Tools You Must Know](https://twitter.com/harshbothra_/status/1501928368521945090)
+**5** | [17 Search Engines every Security Professional Must Know](https://twitter.com/harshbothra_/status/1503332626580471808)
+**6** | [7 Cyber Security Conferences Channel You Must Follow](https://twitter.com/harshbothra_/status/1505869341748723714)
+**7** | [9 Free Practice Labs to Master Cross-Site Scripting](https://twitter.com/harshbothra_/status/1508406052663934979)
+**8** | [11 MindMaps I have created that you may find useful!](https://twitter.com/harshbothra_/status/1509168580071329792)
+**9** | [14 Payload Repositories to find all the required Payloads & Attack Vectors](https://twitter.com/harshbothra_/status/1509870706347032579)
 
 # MindMaps 
 S.No. | Topic
@@ -145,9 +166,4 @@ S.No. | Topic
 **1** | [Account Takeover Techniques](https://www.xmind.net/m/M3WEqG/)
 **2** | [CWE TOP 10 (2021)](https://www.xmind.net/m/icrqti)
 
-# Guest Resources
 
-___
-S.No. | Topic
---- | ---
-**1** | [<>](/guest-resources/<>.md)
