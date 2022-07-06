@@ -13,7 +13,7 @@ SecurityExplained is a new series after the previous learning challenge series [
 
 Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_).
 
-**Note:** Please note that this series will run on irregular scehdules and it is not necessary to produce & share content on a regular or daily basis. 
+**Note:** Please note that this series will run on irregular schedules and it is not necessary to produce & share content on a regular or daily basis. 
 
 # Content by Harsh
 ___
