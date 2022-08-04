@@ -58,7 +58,7 @@ S.No. | Topic
 **37** | [Vulnerable Code Snippet - 24 (Python) ](/resources/vulnerable-code-24.md)
 **38** | [Vulnerable Code Snippet - 25 (Python) ](/resources/vulnerable-code-25.md)
 **39** | [Vulnerable Code Snippet - 26 (PHP) ](/resources/vulnerable-code-26.md)
-**40** | [Vulnerable Code Snippet - 27 (PHP) ] (/resources/vulnerable-code-27.md)
+**40** | [Vulnerable Code Snippet - 27 (PHP) ](/resources/vulnerable-code-27.md)
 **41** | [Vulnerable Code Snippet - 28 (Golang) ](/resources/vulnerable-code-28.md)
 **42** | [Vulnerable Code Snippet - 29 (PHP) ](/resources/vulnerable-code-29.md)
 **43** | [Vulnerable Code Snippet - 30 (Python) ](/resources/vulnerable-code-30.md)
